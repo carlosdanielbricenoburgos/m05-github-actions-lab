@@ -34,4 +34,3 @@ def dividir(a, b):
 
 def potencia(a, b):
     return a ** b
-x=1
